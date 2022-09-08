@@ -1,0 +1,6 @@
+have you thought about this...what is the guarantee that on elections our votes are registered, in actual our votes got counted up... we get guarantee from a central ageancy, election commission of india.
+we have to blindly trust on election commission. ok lets think of a situation, if we can take the guarantee from ourselves that not need to trust on anyone for this, yes we can verify that our voted get 
+counted for the for same party. yes this is possible by using blockchain, the technology on which bitcoin is based.
+
+
+blockchain is a technique to store information in decentralized manner. decentralized means there is no central authority to contrl the data.
