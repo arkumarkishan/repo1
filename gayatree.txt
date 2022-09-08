@@ -1,0 +1,5 @@
+throughput-- the no of sec it takes for each request
+latency-- transaction betnn source and target
+scalability --maximum user load to a softwarer
+stability -- suddenly increasing or decresing 
+loadrunner / jmeter
